@@ -18,7 +18,7 @@ function AboutUs() {
               </div>
 
               <h1 className="font-display relative z-10 mt-4 text-xl font-bold leading-tight tracking-tight text-heading lg:mt-8 lg:text-4xl">
-                Welcome to G-Campus, a revolutionary platform dedicated to
+                Welcome to college-Campus, a revolutionary platform dedicated to
                 reshaping the landscape of education.{" "}
                 <span className="text-blue-400">
                   inspiring learners to excel and shaping the leaders of

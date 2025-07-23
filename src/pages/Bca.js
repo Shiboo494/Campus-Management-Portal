@@ -15,7 +15,7 @@ function Bca() {
             <div className="flex justify-between items-center ">
               <span></span>
               <h1 className=" text-lg text-center underline underline-offset-2 font-bold leading-tight tracking-tight text-heading  lg:text-3xl">
-                Bachelor of Computer Applications (BCA)
+                Bachelor of Technology (B.tech)
               </h1>
               <Link
                 to="/signup"
@@ -44,16 +44,11 @@ function Bca() {
                       <div className="max-w-xl text-center lg:text-left">
                         <div>
                           <p className="text-2xl font-medium tracking-tight text-blue-600 sm:text-3xl">
-                            Bachelor of Computer Applications
+                            computer science and Engineering
                           </p>
                           <p className="max-w-xl text-lg mt-4  tracking-tight text-gray-600">
-                            Bachelor of Computer Application is a popular course
-                            amongst students who have completed Class 12th and
-                            have studied Computer Science or Information
-                            Technology as a main subject or elective in Senior
-                            Secondary Education. If you are interested in
-                            pursuing a career in IT, then a BCA course is a
-                            great option for you.
+                              
+B.Tech (Bachelor of Technology) is a 4-year undergraduate degree program focused on engineering and technology. It is one of the most popular technical courses in India and many other countries, aimed at providing both theoretical knowledge and practical skills required in various engineering fields.
                           </p>
                         </div>
                         <div className="flex justify-center gap-3 mt-10 lg:justify-start">
@@ -178,7 +173,7 @@ function Bca() {
                         <div className="max-w-xl">
                           <div>
                             <p className="text-xl font-medium tracking-tight text-blue-500 sm:text-3xl">
-                              "Unlock Your Future with BCA: Igniting the Spark
+                              "Unlock Your Future with Btech: Igniting the Spark
                               of Technological Excellence"
                             </p>
                           </div>
@@ -208,7 +203,7 @@ function Bca() {
                                 </p>
                               </div>
                               <div className="mt-2 text-base text-gray-500">
-                                BCA empowers you to be a catalyst for
+                                Btech empowers you to be a catalyst for
                                 change.Engage in internships, collaborate on
                                 real-world projects, and build a network that
                                 opens doors to exciting career opportunities.
@@ -222,7 +217,7 @@ function Bca() {
                               </div>
                               <div className="mt-2 text-base text-gray-500">
                                 Your journey doesn't end with graduation; it
-                                begins. BCA opens doors to a plethora of career
+                                begins. Btech opens doors to a plethora of career
                                 opportunities — from coding maestro to tech
                                 visionary. Join a league of professionals making
                                 waves in the industry.
@@ -235,7 +230,7 @@ function Bca() {
                                 </p>
                               </div>
                               <div className="mt-2 text-base text-gray-500">
-                                More than an academic pursuit, BCA is where your
+                                More than an academic pursuit, Btech is where your
                                 passion meets your profession. Turn your love
                                 for technology into a thriving career, and let
                                 every project be a testament to your dedication
@@ -280,7 +275,7 @@ function Bca() {
                             </p>
                           </div>
                           <div className="mt-2 text-base text-gray-500">
-                            Our BCA faculty is a symphony of expertise, with
+                            Our Btech faculty is a symphony of expertise, with
                             each teacher contributing their unique notes of
                             knowledge and experience.
                           </div>
@@ -310,7 +305,7 @@ function Bca() {
                           <div className="mt-2 text-base text-gray-500">
                             Benefit from our strong ties with the industry. Our
                             college actively collaborates with renowned tech
-                            companies,our BCA graduates are on from the moment
+                            companies,our Btech graduates are on from the moment
                             they step into the job market.
                           </div>
                         </li>

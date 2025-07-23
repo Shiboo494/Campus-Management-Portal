@@ -11,10 +11,10 @@ import Logo from "../resources/images/cap-1266204.svg";
 function Home() {
   // const StudentCount = useLoaderData();
   const [StudentCount, setStudentCount] = useState({
-    Total: 12,
+    Total: 16,
     BCOM: 4,
     BBA: 4,
-    BCA: 4,
+    Btech: 8,
   });
 
   useEffect(() => {
@@ -50,11 +50,11 @@ function Home() {
               <img className="aspect-square w-1/6" src={Logo} alt="logo" />
 
               <h1 className="text-center text-3xl font-semibold text-heading md:max-w-4xl lg:text-5xl xl:text-6xl">
-                Welcome to G-Campus, for aspiring business and IT leaders!
+                Welcome to Sunny-Campus, for aspiring business and IT leaders!
               </h1>
               <p className="mt-6 max-w-3xl text-xl">
                 G-Campus fosters a vibrant and dynamic learning environment
-                where students pursuing BCA, BCom, and BBA degrees.
+                where students pursuing Btech, BCom, and BBA degrees.
               </p>
               <form className="mt-6 flex flex-col gap-2 sm:flex-row">
                 <div>
@@ -116,7 +116,7 @@ function Home() {
                 <Link
                   to="/courses/bca"
                   className="text-indigo-500 hover:underline font-semibold">
-                  Bachelor of Computer Applications (BCA)
+                  Bachelor of technology (B.tech)
                 </Link>{" "}
                 for mastering the world of technology, and the{" "}
                 <Link

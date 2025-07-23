@@ -10,11 +10,11 @@ function Courses() {
       <div className="min-h-screen bg-gradient-to-tr bg-gray-100 flex justify-center items-center py-20">
         <div className="px-4  md:grid md:grid-cols-2 lg:grid-cols-3 gap-5 space-y-4 md:space-y-0">
           <div className="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500">
-            <h3 className="mb-3 text-xl font-bold text-indigo-600">BCA</h3>
+            <h3 className="mb-3 text-xl font-bold text-indigo-600">Btech</h3>
             <div className="relative">
               <img className="w-full rounded-xl" src={BCA_IMG} alt="Colors" />
             </div>
-            <h1 className="mt-4 text-gray-800 text-2xl font-bold cursor-pointer">Bachelor's of Computer Application</h1>
+            <h1 className="mt-4 text-gray-800 text-2xl font-bold cursor-pointer">Bachelor of technology</h1>
             <div className="my-4">
               <div className="flex space-x-1 items-center mb-1.5">
                 <span>
@@ -22,7 +22,7 @@ function Courses() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
                 </span>
-                <p>3 Years</p>
+                <p>4 Years</p>
               </div>
               <div className="flex space-x-1 items-center mb-1.5">
                 <span>
@@ -30,7 +30,7 @@ function Courses() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M16 4v12l-4-2-4 2V4M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
                   </svg>
                 </span>
-                <p>6 Semesters</p>
+                <p>8 Semesters</p>
               </div>
               <div className="flex space-x-1 items-center mb-1.5">
                 <span>
