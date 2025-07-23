@@ -1,7 +1,7 @@
 Sure! Below is an example of an interactive README.md file for your GitHub repository "G-Campus: A College Management System":
 
 ```markdown
-# G-Campus: A College Management System
+# Sunny-Campus: A College Management System
 
 Welcome to G-Campus! This is a comprehensive College Management System built to streamline student management with powerful functionalities.
 
